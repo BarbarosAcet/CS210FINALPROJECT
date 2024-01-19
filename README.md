@@ -1,8 +1,32 @@
-# CS210FINALPROJECT Barbaros Acet 31143
-# aim and hypothesis of the project: to find out if my listening habit matches my taste of music in general basis which corresponds to my playlists' songs.
-# motivation of doing this project: I have always curious about how i represent my music taste to the outside world correlates what I generally listen on a day. I always thought that my listening habit does not match my representation of music taste (playlists) because spotify is no different than any other social media. It is there to show and represent your music taste for other people in order to gain social credits. So it was joyful to experiment my hypothesis using my own data.
-#Findings: I actually found out various finding about my general music taste. What I search for in daily basis, how my music taste shapes my playlists' structure, how daily basis taste of music correlates with my playlists.
-#Limitations and future work: the Main limitation is how spotify gives the data. It does not have very distinctive categories, it lacks of richness such as there is no mood, bpm or any other categorization for the songs. Future work can be done by further gathering the extended data from spotify which will result in a much more detailed observation.
-#in Datacollect i gathered my data and carefully constructed the dataframes.
-#in EDAskills i performed various visualizations and EDA principles upon my newly created dataframes.
-#in Hypothesis Testing according to my hypothesis. and reach out a conclusion which supports my hypothesis using machine learning and confusion matrix. 
+Author: Barbaros Acet, ID: 31143
+
+Course: CS210
+
+Abstract
+This project aims to explore the correlation between an individual's private listening habits and their publicly shared music tastes, as represented by their playlists. It seeks to answer the question: does one's daily music listening align with the music they choose to publicly display on platforms like Spotify?
+
+Introduction
+Aim and Hypothesis
+The primary objective is to determine if there's a match between my general music taste and the songs in my playlists. The hypothesis posits that there may be a discrepancy between these two aspects due to the social nature of platforms like Spotify, where users might curate playlists more for public image than personal preference.
+
+Motivation
+The motivation stems from a curiosity about the alignment of private music consumption with public representation. Spotify, akin to other social media platforms, serves as a medium to showcase one’s music taste, possibly influencing one's playlist choices for social validation. This project offers an opportunity to empirically test this hypothesis using personal Spotify data.
+
+Methodology
+Data Collection
+The data was collected from my personal Spotify account. The process involved meticulous extraction and organization of data into structured dataframes for analysis.
+
+Exploratory Data Analysis (EDA)
+Various EDA techniques and visualizations were employed to understand the characteristics and patterns within the data. This step was crucial in shaping the approach for subsequent hypothesis testing.
+
+Hypothesis Testing
+The project employed machine learning techniques and a confusion matrix to test the hypothesis. The goal was to analyze the congruence between my daily listening patterns and the songs in my playlists.
+
+Findings
+The analysis revealed several insights about my music preferences, including daily listening patterns and how these influence the structure of my playlists. It was found that there is a correlation between my daily music choices and the songs in my playlists.
+
+Limitations and Future Work
+A significant limitation is the nature of data provided by Spotify, which lacks depth in certain areas, such as mood, beats per minute (BPM), and other detailed song categorizations. Future research could involve collecting more extensive data from Spotify for a deeper analysis.
+
+Conclusion
+The findings support the hypothesis that my daily listening habits do not entirely align with the music I represent in my playlists. This discrepancy highlights the influence of social media dynamics on music representation.
